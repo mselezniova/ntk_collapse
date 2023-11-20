@@ -1,4 +1,6 @@
-# README
+# Neural (Tangent Kernel) Collapse
+
+Source code for the paper ["Neural (Tangent Kernel) Collapse"](https://arxiv.org/abs/2305.16427) by Mariia Seleznova, Dana Weitzner, Raja Giryes, Gitta Kutyniok, Hung-Hsu Chou, *NeurIPS 2023*.
 
 ## Requirements
 
